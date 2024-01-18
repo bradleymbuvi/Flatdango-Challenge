@@ -1,0 +1,56 @@
+#main {
+    background-color: rgb(17, 182, 154);
+}
+
+#body-title{
+    text-align: center;
+}
+
+#body-subtitle {
+  text-align: center;
+}
+
+#film-container img {
+    flex: 0 1 auto;
+    height: 150px;
+    margin-right: 0.5rem;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    background-color: blue;
+}
+
+.sidenav {
+  height: 100%; 
+  width: 300px; 
+  position: fixed; 
+  z-index: 1; 
+  top: 0; 
+  left: 0;
+  background-color: #111; 
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav .film-list {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: red;
+    display: block;
+    cursor: pointer;
+    word-break: break-al;
+}
+
+.sidenav .film-list:hover {
+    color: greenyellow;
+  }
+
+button {
+  background-color: green;
+  color: white;  
+}
