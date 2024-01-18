@@ -2,6 +2,8 @@
 
 An app that allows a user to purchase movie tickets from the theater.
 
+Live Site: https://bradleymbuvi.github.io/Flatdango-Challenge/
+
 
 Core Deliverables:
 As a user, I can:
