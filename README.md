@@ -2,6 +2,16 @@
 
 An app that allows a user to purchase movie tickets from the theater.
 
+To run the application:
+
+- First run:
+
+        json-server --watch db.json  in terminal 
+
+
+This ensures our db.json file is running in the backend.
+
+
 Live Site: https://bradleymbuvi.github.io/Flatdango-Challenge/
 
 
